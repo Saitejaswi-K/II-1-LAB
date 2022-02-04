@@ -5,8 +5,8 @@ int main()
 	  char x; 
 	  cout<<"Enter the character:";
 	  cin.get(x); 
-    cout << "The given Character is:";
-    cout.put(x)<<endl; 
-	  cout.write("Welcome to Hyderabad", 5); 
-  return 0;
+          cout << "The given Character is:";
+          cout.put(x)<<endl; 
+	  cout.write("Welcome to Hyderabad", 8); 
+          return 0;
 }
